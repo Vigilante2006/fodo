@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fodo/static/css/main.30002bf5.css",
+    "main.js": "/fodo/static/js/main.75d93072.js",
+    "index.html": "/fodo/index.html",
+    "main.30002bf5.css.map": "/fodo/static/css/main.30002bf5.css.map",
+    "main.75d93072.js.map": "/fodo/static/js/main.75d93072.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30002bf5.css",
+    "static/js/main.75d93072.js"
+  ]
+}
